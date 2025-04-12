@@ -1,3 +1,3 @@
 # jayanth-demo
 codes
-Author- Jayanth Reddy
+Author. <br> Jayanth Reddy
